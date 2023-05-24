@@ -54,8 +54,6 @@ spec:
         - name: webhook
           containerPort: 8443
         volumeMounts:
-        - name: data-vol
-          mountPath: /data
         - name: webhook-cert-translated
           mountPath: /etc/trow/webhook-cert
           readOnly: true
