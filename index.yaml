@@ -14,4 +14,15 @@ entries:
     urls:
     - https://github.com/Extrality/helm-charts/releases/download/metabase-1.1.1/metabase-1.1.1.tgz
     version: 1.1.1
-generated: "2023-03-07T10:35:08.312037788Z"
+  trow:
+  - apiVersion: v2
+    appVersion: 0.4.0
+    created: "2023-05-24T13:15:32.911418804Z"
+    description: Helm chart for Trow registry
+    digest: 51054d5198d71989fe79cadc76420cb5bbe950ee028ae41ea5937d0569f35586
+    name: trow
+    type: application
+    urls:
+    - https://github.com/Extrality/helm-charts/releases/download/trow-0.4.2/trow-0.4.2.tgz
+    version: 0.4.2
+generated: "2023-05-24T13:15:32.911425004Z"
