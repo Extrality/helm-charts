@@ -17,6 +17,16 @@ entries:
   trow:
   - apiVersion: v2
     appVersion: 0.4.0
+    created: "2023-05-24T13:23:30.522004824Z"
+    description: Helm chart for Trow registry
+    digest: dd8becb77a8010022d099ac3d1495b5a0dfdd65f2e66099c6f41462318809b3a
+    name: trow
+    type: application
+    urls:
+    - https://github.com/Extrality/helm-charts/releases/download/trow-0.4.3/trow-0.4.3.tgz
+    version: 0.4.3
+  - apiVersion: v2
+    appVersion: 0.4.0
     created: "2023-05-24T13:15:32.911418804Z"
     description: Helm chart for Trow registry
     digest: 51054d5198d71989fe79cadc76420cb5bbe950ee028ae41ea5937d0569f35586
@@ -25,4 +35,4 @@ entries:
     urls:
     - https://github.com/Extrality/helm-charts/releases/download/trow-0.4.2/trow-0.4.2.tgz
     version: 0.4.2
-generated: "2023-05-24T13:15:32.911425004Z"
+generated: "2023-05-24T13:23:30.522016225Z"
